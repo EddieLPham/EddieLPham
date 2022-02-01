@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Database Structure**
 
-- 🤝 I’m looking for help with **my portfolio and resume.**
+- 🤝 I’m looking to learn for more experience with front end and data management.**
 
 - 📫 How to reach me **lpham1357@gmail.com**
 
