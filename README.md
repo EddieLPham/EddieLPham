@@ -7,13 +7,18 @@
 - 📫 How to reach me **lpham1357@gmail.com**
 
 - Check out my past Projects!!:
- https://suggestedname.github.io/Web/ (Porfolio Website)
- 
- https://github.com/SuggestedName/CNN-Dolphins/ {A program using convolutional neural network to identify dolphine using pictures}
 
- https://github.com/SuggestedName/CSCI6050-B1/  {Movie website using ASP.NET, SQLite, and Bootstraps}
+    https://suggestedname.github.io/Web/ 
+    {Porfolio Website}
 
- https://github.com/SuggestedName/Movie-Screening-Forum {Movie Forum using basic HTML,CSS, and XAMP(SQL)}
+    https://github.com/SuggestedName/CNN-Dolphins/ 
+    {A program using convolutional neural network to identify dolphine using pictures}
+
+    https://github.com/SuggestedName/CSCI6050-B1/
+    {Movie website using ASP.NET, SQLite, and Bootstraps}
+
+    https://github.com/SuggestedName/Movie-Screening-Forum
+    {Movie Forum using basic HTML,CSS, and XAMP(SQL)}
 
 
 <h3 align="left">Connect with me:</h3>
