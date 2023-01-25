@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Lap Pham</h1>
-<h3 align="center">A student at UGA. Looking forward to be a Software Developer/Game Developer.</h3>
+<h3 align="center">Graduated from University Of Georgia, majoring Computer Science. Looking forward to apply my skills as a Software Developer/Game Developer.</h3>
 
-- 🌱 I’m currently learning **Database Structure**
-
-- 🤝 I’m looking to learn for more experience with front end and data management.**
+- 🤝 I’m looking to learn for more experience with Data Management and Back-End Developer.**
 
 - 📫 How to reach me **lpham1357@gmail.com**
 
--Past Projects: https://suggestedname.github.io/Web/
+- Check out my past Projects!!:
+ https://suggestedname.github.io/Web/ (Porfolio Website)
+ https://github.com/SuggestedName/CNN-Dolphins/ {A program using convolutional neural network to identify dolphine using pictures}
+ https://github.com/SuggestedName/CSCI6050-B1/  {Movie website using ASP.NET, SQLite, and Bootstraps}
+ https://github.com/SuggestedName/Movie-Screening-Forum {Movie Forum using basic HTML,CSS, and XAMP(SQL)}
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lpham1357/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lpham1357" height="30" width="40" /></a>
