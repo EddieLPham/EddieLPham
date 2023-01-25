@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lap Pham</h1>
-<h3 align="center">Graduated from University Of Georgia, majoring Computer Science. Looking forward to apply my skills as a Software Developer/Game Developer.</h3>
+<h4 align="center">Graduated from UGA, major Computer Science.</h4>
+<h4 align="center">Looking forward to apply my skills as a Software Developer/Game Developer.</h4>
 
-- 🤝 I’m looking to learn for more experience with Data Management and Back-End Developer.**
+- 🤝 I’m looking to learn for more experience with **Data Management and Back-End Developer**.
 
 - 📫 How to reach me **lpham1357@gmail.com**
 
