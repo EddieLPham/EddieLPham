@@ -8,17 +8,14 @@
 
 - Check out my past Projects!!:
 
-    https://suggestedname.github.io/Web/ 
-    {Porfolio Website}
+    <a href= "https://suggestedname.github.io/Web/"> Porfolio Website </a>
 
-    https://github.com/SuggestedName/CNN-Dolphins/ 
-    {A program using convolutional neural network to identify dolphine using pictures}
+    <a href=https://github.com/SuggestedName/CNN-Dolphins/ >
+    A program using convolutional neural network to identify dolphine using pictures</a>
 
-    https://github.com/SuggestedName/CSCI6050-B1/
-    {Movie website using ASP.NET, SQLite, and Bootstraps}
+   <a href= https://github.com/SuggestedName/CSCI6050-B1/ > Movie website using ASP.NET, SQLite, and Bootstraps</a>
 
-    https://github.com/SuggestedName/Movie-Screening-Forum
-    {Movie Forum using basic HTML,CSS, and XAMP(SQL)}
+   <a href= https://github.com/SuggestedName/Movie-Screening-Forum> Movie Forum using basic HTML,CSS, and XAMP(SQL)</a>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -27,4 +24,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+
+<a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://icons8.com/icon/102597/sql" alt="sql" width="40" height="40"/></a>
+</p>
