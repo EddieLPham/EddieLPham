@@ -8,7 +8,7 @@
 
 - Check out my past Projects!!:
 
-    <a href= "https://suggestedname.github.io/Web/"> Porfolio Website </a>
+    <a href= "https://suggestedname.github.io/WebsitePortfolio/"> Porfolio Website </a>
 
     <a href=https://github.com/SuggestedName/CNN-Dolphins/ >
     A program using convolutional neural network to identify dolphine using pictures</a>
