@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lap Pham</h1>
 <h4 align="center">Graduated from UGA, major Computer Science.</h4>
-<h4 align="center">Looking forward to apply my skills as a Software Developer/Game Developer.</h4>
-
-- 🤝 I’m looking to learn for more experience with **Data Management and Back-End Developer**.
+<h4 align="center">Looking forward to apply my skills as a Software Developer/Web Developer.</h4>
 
 - 📫 How to reach me **lpham1357@gmail.com**
-
 - Check out my past Projects!!:
 
     <a href= "https://suggestedname.github.io/WebsitePortfolio/"> Porfolio Website </a>
