@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lap Pham</h1>
 <h4 align="center">Graduated from UGA, major Computer Science.</h4>
-<h4 align="center">Looking forward to apply my skills as a Software Developer/Web Developer.</h4>
+<h4 align="center">Looking forward to applying my skills as a Software Developer/Cloud Developer.</h4>
 
 - 📫 How to reach me **lpham1357@gmail.com**
 - Check out my past Projects!!:
@@ -8,7 +8,7 @@
     <a href= "https://suggestedname.github.io/WebsitePortfolio/"> Porfolio Website </a>
 
     <a href=https://github.com/SuggestedName/CNN-Dolphins/ >
-    A program using convolutional neural network to identify dolphine using pictures</a>
+    A program using convolutional neural network to identify dolphins using pictures</a>
 
    <a href= https://github.com/SuggestedName/CSCI6050-B1/ > Movie website using ASP.NET, SQLite, and Bootstraps</a>
 
