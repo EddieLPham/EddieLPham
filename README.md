@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lap Pham</h1>
+<h1 align="center">Hi 👋, I'm Lap(Eddie) Pham</h1>
 <h4 align="center">Graduated from UGA, major Computer Science.</h4>
 <h4 align="center">Looking forward to applying my skills as a Software Developer/Cloud Developer.</h4>
 
