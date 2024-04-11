@@ -5,14 +5,14 @@
 - 📫 How to reach me **lpham1357@gmail.com**
 - Check out my past Projects!!:
 
-    <a href= "https://suggestedname.github.io/WebsitePortfolio/"> Porfolio Website </a>
+    <a href= "https://eddielpham.github.io/Portfolio/"> Porfolio Website </a>
 
-    <a href=https://github.com/SuggestedName/CNN-Dolphins/ >
+    <a href=https://github.com/eddielpham/CNN-Dolphins/ >
     A program using convolutional neural network to identify dolphins using pictures</a>
 
-   <a href= https://github.com/SuggestedName/CSCI6050-B1/ > Movie website using ASP.NET, SQLite, and Bootstraps</a>
+   <a href= https://github.com/eddielpham/CSCI6050-B1/ > Movie website using ASP.NET, SQLite, and Bootstraps</a>
 
-   <a href= https://github.com/SuggestedName/Movie-Screening-Forum> Movie Forum using basic HTML,CSS, and XAMP(SQL)</a>
+   <a href= https://github.com/eddielpham/Movie-Screening-Forum> Movie Forum using basic HTML,CSS, and XAMP(SQL)</a>
 
 
 <h3 align="left">Connect with me:</h3>
