@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lap(Eddie) Pham</h1>
-<h4 align="center">Graduated from UGA, major Computer Science.</h4>
+<h4 align="center">B.S. Computer Science @ UGA</h4>
 <h4 align="center">Looking forward to applying my skills as a Software Developer/Cloud Developer.</h4>
 
 - 📫 How to reach me **lpham1357@gmail.com**
